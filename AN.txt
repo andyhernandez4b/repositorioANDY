@@ -1,0 +1,7 @@
+<html>
+<head> <title>pagina inicial </title></head>
+<body bgcolor="#E20707">
+Hola Mundo!
+Robert Hernandez
+</body>
+</html>
